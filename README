@@ -1,0 +1,93 @@
+# Verifier 🔐
+
+**Boost your Discord server's security with Verifier — featuring a powerful custom verification system designed to keep your community safe and protected.**
+
+[![Discord](https://img.shields.io/discord/1378102594433712128?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/verifier)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](CHANGELOG.md)
+
+## 🛡️ About Verifier
+
+Verifier is a robust Discord bot designed to enhance your server's security through an intuitive verification system. With advanced anti-bot protection and human verification features, Verifier ensures only legitimate users gain access to your community.
+
+## 🔐 Why Choose Verifier?
+
+- **🛡️ Maintains a Safe Community** - Advanced security measures to protect your server from unwanted visitors
+- **⚡ Quick & Easy** - Streamlined verification process that takes less than a minute
+- **🎯 User-Friendly** - Simple three-step verification process that anyone can complete
+
+## 🚀 How It Works
+
+Getting verified with Verifier is simple:
+
+1. **Click the Button** - Press the verification button in your server
+2. **Solve Captcha** - Complete the human verification challenge
+3. **Get Access** - Instantly gain access to your community!
+
+## 🛡️ Security Features
+
+### Core Protection
+- **Human Verification** - Ensures only real users can join your server
+- **Captcha System** - Advanced challenge system to prevent automated access
+- **Anti-Bot Protection** - Multiple layers of security to block malicious bots
+
+### Advanced Security
+- Real-time threat detection
+- Customizable verification requirements
+- Detailed logging and monitoring
+- Rate limiting to prevent abuse
+
+## 📋 Setup
+
+1. Invite Verifier to your server using [this link](https://discord.com/oauth2/authorize?client_id=1390741785122181245&permissions=8&scope=bot)
+2. Configure your Verifier settings with `/configure`
+3. View your Verifier config with `/server_config`
+4. Your server is now protected!
+
+## 🎛️ Commands
+
+| Command | Description | Permission |
+|---------|-------------|------------|
+| `/configure` | Set up verification system | Admin |
+| `/force_verify` | Force verify a user | Admin |
+| `/remove_verification` | Remove a user from the verified list | Admin |
+| `/server_config` | View your Verifier config | Admin |
+| `/setup_verification` | Setup the verification panel | Admin |
+| `/unban_user` | Unban a user from verifying | Admin |
+| `/verify_stats` | View your current verification stats | Admin |
+| `/help` | Display help information | Everyone |
+
+## 🌟 Support & Community
+
+Need help or want to stay updated? Join our community:
+
+- **Discord Server**: [https://discord.gg/verifier](https://discord.gg/verifier)
+- **Documentation**: [Coming Soon]
+
+## 🔄 Changelog
+
+### Version 1.0.0 - Latest Release
+- Initial release with core verification system
+- Basic captcha implementation
+- Anti-bot protection features
+- Admin configuration commands
+
+### Previous Versions
+For a complete changelog history, see [CHANGELOG.md](CHANGELOG.md)
+
+## 🙏 Acknowledgments
+
+- Thanks to all our community members for feedback and support
+- Special thanks to beta testers who helped improve Verifier
+- Discord.py library for making bot development possible
+
+## 📞 Contact
+
+- **CEO**: [Mikchiato]
+- **Email**: [verifierdevelopment@gmail.com]
+- **Discord**: [Mikchiato]
+
+
+
+**Made with ❤️ for the Discord community**
+
+*Keep your server safe with Verifier - because security matters.*
