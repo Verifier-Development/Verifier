@@ -1,7 +1,3 @@
-Here’s a polished and professional version of your GitHub README for **Verifier**. It improves structure, grammar, formatting consistency, and clarity while maintaining your original tone:
-
----
-
 # Verifier 🔐
 
 **Boost your Discord server’s security with Verifier — a powerful custom verification system built to keep your community safe and protected.**
@@ -125,7 +121,3 @@ For full version history, see [CHANGELOG.md](CHANGELOG.md)
 
 **Made with ❤️ for the Discord community.**
 *Keep your server safe with Verifier — because security matters.*
-
----
-
-Let me know if you'd like this turned into a full markdown `.md` file, or if you'd like badges, icons, or other enhancements (e.g. demo GIFs or status banners).
