@@ -3,7 +3,7 @@
 **Boost your Discord server’s security with Verifier — a powerful custom verification system built to keep your community safe and protected.**
 
 [![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Our%20Discord\&logo=discord)](https://discord.gg/verifier)
-📦 **Latest Version:** See [CHANGELOG.md](CHANGELOG.md)
+📦 **Latest Version:** See [here](https://github.com/Verifier-Development/Verifier/releases/tag/Release)
 
 ---
 
@@ -99,7 +99,7 @@ Join our community or check out the docs (coming soon):
 * Anti-bot protection features
 * Admin command set
 
-For full version history, see [CHANGELOG.md](CHANGELOG.md)
+For full version history, see [here](https://github.com/Verifier-Development/Verifier/releases/tag/Release)
 
 ---
 
