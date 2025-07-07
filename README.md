@@ -49,7 +49,6 @@
 
 ### Advanced Features
 
-* 🔍 Real-time threat detection
 * ⚙️ Customizable verification options
 * 📜 Detailed logging & audit trails
 * 🚫 Rate limiting to stop abuse
