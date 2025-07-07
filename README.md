@@ -90,19 +90,6 @@ Join our community or check out the docs (coming soon):
 
 ---
 
-## 🔄 Changelog
-
-### 📌 Version 1.0.0 – Latest
-
-* Initial release with verification system
-* Basic captcha challenge
-* Anti-bot protection features
-* Admin command set
-
-For full version history, see [here](https://github.com/Verifier-Development/Verifier/releases/tag/Release)
-
----
-
 ## 🙌 Acknowledgments
 
 * Thanks to our community for continuous support and feedback 💙
